@@ -4,7 +4,7 @@
 
 
 ### In this project we work on Mushroom data set,
-Use what you have learned over the last two weeks to create a model that correctly predicts whether a mushroom is poisonous or edible.. 
+We Use what you have learned over the last two weeks to create a model that correctly predicts whether a mushroom is poisonous or edible.. 
 
 
 
