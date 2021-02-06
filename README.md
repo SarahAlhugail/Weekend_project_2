@@ -1,9 +1,14 @@
 # **Regressed Classification Weekend Project**
 
 
-## In this project we work on Mushroom data set. 
 
-![image](https://github.com/SarahAlhugail/Weekend_project_2/blob/main/Screenshot%20(10).png)
+
+### In this project we work on Mushroom data set. 
+
+
+
+![image](https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin//////eng/kinoko/image/kiso_img_01.jpg)
+
 
 
   **Data**: archive.ics.uci.edu/ml/machine-learning-databases/mushroom/
@@ -17,7 +22,7 @@
     
     
 ## Results:
-![image](Screenshot (10).jpg)
+![image](https://github.com/SarahAlhugail/Weekend_project_2/blob/main/Screenshot%20(10).png)
 
 Screenshot (10)
 After testing the model we founds this Accuracy:`0.9251600196947316`
@@ -29,7 +34,7 @@ After testing the model we founds this Accuracy:`0.9251600196947316`
 
 
 
-Group Members:
+###  **Group Members:**
 
 Eatidal Almutairi
 Hailah Alharthi
