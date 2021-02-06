@@ -12,13 +12,13 @@ Use what you have learned over the last two weeks to create a model that correct
 
 
 
-  **Data**: [archive.ics.uci.edu/ml/machine-learning-databases/mushroom/]
+  **Data**: archive.ics.uci.edu/ml/machine-learning-databases/mushroom/
   
-  **Data Dictionary**: [archive.ics.uci.edu/ml/datasets/mushroom]
+  **Data Dictionary**: archive.ics.uci.edu/ml/datasets/mushroom
   
   **Type**: classification
   
-  **Starter code**: [colab.research.google.com/drive/1hIoS2jZCpVOCE4U2mxqkeYPLh2m6I8rA?usp=sharing]
+  **Starter code**: colab.research.google.com/drive/1hIoS2jZCpVOCE4U2mxqkeYPLh2m6I8rA?usp=sharing
   **Target**: target
     
     
