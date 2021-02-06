@@ -22,10 +22,11 @@
     
     
 ## Results:
-![image](https://github.com/SarahAlhugail/Weekend_project_2/blob/main/Screenshot%20(10).png)
 
-Screenshot (10)
+
 After testing the model we founds this Accuracy:`0.9251600196947316`
+
+![image](https://github.com/SarahAlhugail/Weekend_project_2/blob/main/Screenshot%20(10).png)
 
 
 
