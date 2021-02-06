@@ -3,7 +3,7 @@
 
 ## In this project we work on Mushroom data set. 
 
-![image](https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin//////eng/kinoko/image/kiso_img_01.jpg)
+![image](https://github.com/SarahAlhugail/Weekend_project_2/blob/main/Screenshot%20(10).png)
 
 
   **Data**: archive.ics.uci.edu/ml/machine-learning-databases/mushroom/
